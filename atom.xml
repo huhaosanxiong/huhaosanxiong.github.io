@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://huhaosanxiong.github.io</id>
-    <title>poi</title>
-    <updated>2020-11-27T09:27:12.872Z</updated>
+    <title>huhsx&apos;s blog</title>
+    <updated>2020-11-27T09:27:48.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://huhaosanxiong.github.io"/>
     <link rel="self" href="https://huhaosanxiong.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://huhaosanxiong.github.io/images/avatar.png</logo>
     <icon>https://huhaosanxiong.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, poi</rights>
+    <rights>All rights reserved 2020, huhsx&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[Good]]></title>
         <id>https://huhaosanxiong.github.io/post/good/</id>
