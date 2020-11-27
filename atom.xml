@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://huhaosanxiong.github.io</id>
     <title>poi</title>
-    <updated>2020-11-27T09:22:46.329Z</updated>
+    <updated>2020-11-27T09:27:12.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://huhaosanxiong.github.io"/>
     <link rel="self" href="https://huhaosanxiong.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://huhaosanxiong.github.io/images/avatar.png</logo>
     <icon>https://huhaosanxiong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, poi</rights>
+    <entry>
+        <title type="html"><![CDATA[Good]]></title>
+        <id>https://huhaosanxiong.github.io/post/good/</id>
+        <link href="https://huhaosanxiong.github.io/post/good/">
+        </link>
+        <updated>2020-11-27T09:26:05.000Z</updated>
+        <content type="html"><![CDATA[<p>success!</p>
+]]></content>
+    </entry>
 </feed>
